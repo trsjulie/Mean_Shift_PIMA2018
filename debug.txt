@@ -1,0 +1,2446 @@
+Avant compute mean shift
+Debut compute mean shift
+Avant build hist
+Apres build hist
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.241971
+VAL DERIV GAUS KER
+0.107982
+VAL DERIV GAUS KER
+0.013296
+VAL DERIV GAUS KER
+0.000535
+VAL DERIV GAUS KER
+0.000007
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+VAL DERIV GAUS KER
+0.000000
+33 87 205 161 132 124 121 118 114 130 107 125 133 153 154 150 158 177 205 205 227 19 30 70 73 51 121 88 152 195 241 243 19 3 243 46 1 239 0 203 228 216 177 182 150 194 159 150 88 61 69 20 243 4 19 216 197 180 188 188 190 186 189 194 214 208 209 193 207 212 218 247 227 240 222 245 254 238 25 41 18 28 29 32 54 67 67 66 64 95 80 92 99 65 111 103 134 149 115 117 138 175 177 181 217 19 250 236 237 232 12 74 190 105 76 82 162 110 99 35 191 217 202 246 239 37 232 42 5 24 37 46 23 27 29 15 61 17 249 13 85 214 91 106 12 250 208 41 1 157 174 167 24 68 11 129 34 189 19 78 44 97 231 87 95 152 196 219 219 230 46 14 26 102 141 123 81 126 138 155 249 100 184 162 137 51 133 202 252 10 235 25 60 136 151 154 151 35 12 238 136 197 109 44 254 103 147 12 55 172 85 61 11 154 163 196 232 225 195 81 69 140 173 93 34 3 182 177 56 49 181 62 174 50 167 170 16 234 163 218 246 97 248 129 254 235 122 134 214 77 13 142 79 31 248 0 
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+Debut for
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+Dans condition
+NEW PIXEL
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+compute until convergence
+Debut for
+0 0 2 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 195 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Après compute mean shift
